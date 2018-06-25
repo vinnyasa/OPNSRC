@@ -1,6 +1,7 @@
 # OPN*SRC
 
 A web app for searching open source projects on GitHub.
+Try it out [OPN*SRC](http://178.128.190.13:3000/)
 
 ## Getting Started
 
